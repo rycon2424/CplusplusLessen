@@ -22,7 +22,7 @@ void FileMixer::MixFiles()
 	vector<string> fileOneLines = SaveTextToString("Z:\\CplusplusRepo\\CplusplusLessen\\FileMixer\\JabberWocky.txt");
 	vector<string> fileTwoLines = SaveTextToString("Z:\\CplusplusRepo\\CplusplusLessen\\FileMixer\\JabberWocky_lat.txt");
 
-	//Creates Text file found in C:\Users\Bosko\source\repos\Opdracht2Cplusplus\Opdracht2Cplusplus
+	//Creates Text file found in Z:\\CplusplusRepo\\CplusplusLessen\\FileMixer
 	ofstream outfile("CombinedText.txt"); // Creates and opens the txt file
 
 	int totalLengthVectors = (fileOneLines.size() + fileTwoLines.size()); // total size of both vectors
