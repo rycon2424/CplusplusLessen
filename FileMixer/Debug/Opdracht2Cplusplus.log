@@ -1,0 +1,6 @@
+﻿  FileMixer.cpp
+z:\cplusplusrepo\cpluspluslessen\filemixer\filemixer.cpp(31): warning C4018: '<': signed/unsigned mismatch
+z:\cplusplusrepo\cpluspluslessen\filemixer\filemixer.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Opdracht2Cplusplus.cpp
+  Generating Code...
+  Opdracht2Cplusplus.vcxproj -> Z:\CplusplusRepo\CplusplusLessen\FileMixer\Debug\Opdracht2Cplusplus.exe
